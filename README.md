@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="./ave-mujica.jpg" alt="Blue-violet illustration of Ave Mujica in a grand hall" width="100%">
 
-<!--
-**Anzu327/Anzu327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Anzu
 
-Here are some ideas to get you started:
+**Interaction Designer · City University of Hong Kong**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in how thoughtful design can make everyday experiences feel a little more human, a little more alive.
+
+---
+
+### Designing little moments that feel alive
+
+I'm drawn to interaction design, especially the small details that shape how people feel: clear, intuitive, and delightful experiences in everyday life.
+
+**On repeat** · Ave Mujica · Yorushika · YOASOBI
