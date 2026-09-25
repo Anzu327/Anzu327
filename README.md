@@ -2,14 +2,18 @@
 
 # Hi, I'm Anzu 👋
 
-**🎨 Interaction Designer · 🎓 City University of Hong Kong**
+**🎨 Interaction Designer · HCI Research**<br>
+**🎓 City University of Hong Kong**
 
-I'm interested in how thoughtful design can make everyday experiences feel a little more human, a little more alive.
+Exploring how people experience and collaborate with intelligent systems.
 
 ---
 
-### ✨ Designing little moments that feel alive
+### 🔬 Research & practice
 
-I'm drawn to interaction design, especially the small details that shape how people feel: clear, intuitive, and delightful experiences in everyday life.
+- **Research** · Human–AI interaction and user experience with AI
+- **Design** · How AI changes the design process
+- **Background** · Industrial design and user research
+- **Practice** · AIGC content production and generative AI workflow design
 
 **🎧 On repeat** · Ave Mujica · Yorushika · YOASOBI
