@@ -1,4 +1,4 @@
-<img src="./ave-mujica-cropped.jpg" alt="Blue-violet illustration of Ave Mujica in a grand hall" width="100%">
+<img src="./ave-mujica-banner.jpeg" alt="Blue-violet illustration of Ave Mujica in a grand hall" width="100%">
 
 # Hi, I'm Anzu 👋
 
